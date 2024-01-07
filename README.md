@@ -51,7 +51,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.</p>
 
-![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/372dcb3b-d4e5-4134-838b-332b7a8f5093)
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/2a52b0eb-9113-4d7b-a95a-603b7a4c4373)
 
 <br />
 
