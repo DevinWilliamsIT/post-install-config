@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/79aec968-689f-428f-bdda-ba058f3dfeff)
 
 <p>
-Next navigate to Admin Panel > Agents > Departments and create a new department with the default settings. (I named the department System Administrators)
+2. Next navigate to Admin Panel > Agents > Departments and create a new department with the default settings. (I named the department System Administrators)
 </p>
 <br />
 
