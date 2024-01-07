@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-  Lastly, we are going to configure help topics, navigate to Admin Panel -> Manage -> Help Topics and create some help topics.
+  8. Lastly, we are going to configure help topics, navigate to Admin Panel -> Manage -> Help Topics and create some help topics.
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/fa6866e5-6ee0-425e-b785-8e5dae710538)
