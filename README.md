@@ -79,6 +79,19 @@ This tutorial outlines the post-install configuration of the open-source help de
   Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
 </p>
 
+<br />
+
+<p>
+  6. Next we are going to configure our users (customers). Navigate to Admin Panel -> Agents -> Add New and create some new users.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/014cd259-94e4-40e5-b55d-99442593bee0)
+
+<p>
+  Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
+</p>
+
+
 
 
 
