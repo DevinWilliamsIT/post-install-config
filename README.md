@@ -110,6 +110,26 @@ This tutorial outlines the post-install configuration of the open-source help de
   In a ticketing system, SEV-A denotes the most critical incidents requiring immediate attention due to their significant and immediate business impact. SEV-B represents medium-severity issues that demand timely resolution but are not as urgent as SEV-A. SEV-C indicates low-severity problems with minimal business impact, often allowing for a more extended resolution timeframe.
 </p>
 
+<br />
+
+<p>
+  Lastly, we are going to configure help topics, navigate to Admin Panel -> Manage -> Help Topics and create some help topics.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/fa6866e5-6ee0-425e-b785-8e5dae710538)
+
+<p>
+  Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for further breakdown (For example, Human Resources and Human Resources/Payroll.)
+Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low.
+</p>
+
+<br />
+
+<p>
+  Congrats! You have now successfully finished your post installation setup for osTicket!
+</p>
+
+
 
 
 
