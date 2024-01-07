@@ -97,7 +97,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   7. Next we have to configure SLA, navigate to Admin Panel -> Manage -> SLA 
 </p>
 
-![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/b39440f8-14e9-42f3-8fb1-79bb88b891a6)
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/724ad67e-1e71-4dcb-9c98-35e186e334de)
 
 <p>
   SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
