@@ -45,9 +45,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
+<p>
+3. Next navigate to Admin Panel > Agents > Teams and create a team. (For this tutorial I named the team Level II Support)
+</p>
+
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/372dcb3b-d4e5-4134-838b-332b7a8f5093)
 
-<p>
-Next navigate to Admin Panel > Agents > Teams and create a team. (For this tutorial I named the team Level II Support)
-</p>
 <br />
+
+
