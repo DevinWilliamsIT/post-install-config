@@ -69,6 +69,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/5a4646c8-fdd4-4ce0-a312-dff0e3794386)
 
+<p>
+  While adding new agents you can also assign their teams and permissions.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/b58122eb-4a86-4227-a82b-b385156addda)
+
+<p>
+  Agents are given access to the help desk with the intent to respond and resolve the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent’s Profile.
+</p>
+
+
 
 
 
