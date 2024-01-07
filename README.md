@@ -55,4 +55,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br />
 
+<p>
+  4. Next we need to allow everybody to make tickets, navigate to Admin Panel -> Settings -> User Settings and make sure this box is unchecked.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/9be33c6e-b7af-47ad-9922-df6cc2c96da4)
+
+<br />
+
+<p>
+  
+</p>
+
+
 
