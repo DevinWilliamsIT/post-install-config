@@ -99,6 +99,20 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/b39440f8-14e9-42f3-8fb1-79bb88b891a6)
 
+<p>
+  SLA Plans or Service Level Agreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.
+  When a ticket is created internally from the Staff Panel, agents can choose an SLA Plan which will override any other assignments to a Department or Help Topic. Agents can also select a Due Date for the ticket which, if passed, will cause the ticket to become overdue. No SLA plan can override a due date.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/f33575ce-d1db-4e61-8201-de190ae530aa)
+
+<p>
+  In a ticketing system, SEV-A denotes the most critical incidents requiring immediate attention due to their significant and immediate business impact. SEV-B represents medium-severity issues that demand timely resolution but are not as urgent as SEV-A. SEV-C indicates low-severity problems with minimal business impact, often allowing for a more extended resolution timeframe.
+</p>
+
+
+
+
 
 
 
