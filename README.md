@@ -30,7 +30,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 1. Firstly, navigate to Admin Panel -> Agents -> Roles and create a role, once you've created a new role give it as many permissions as you'd like, for this tutorial I named it Supreme Admin and gave it all permissions.
-  (Agents assigned to this role will be able to do anything)
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/b4ebb80f-b5b1-4a72-b0e8-141ea0ffd094)
@@ -38,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-2. Next navigate to Admin Panel > Agents > Departments and create a new department with the default settings. (I named the department System Administrators)
+2. Next navigate to Admin Panel > Agents > Departments and create a new department with the default settings.
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/79aec968-689f-428f-bdda-ba058f3dfeff)
@@ -46,7 +45,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-3. Next navigate to Admin Panel > Agents > Teams and create a team. (For this tutorial I named the team Level II Support)
+3. Next navigate to Admin Panel > Agents > Teams and create a team.
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/372dcb3b-d4e5-4134-838b-332b7a8f5093)
