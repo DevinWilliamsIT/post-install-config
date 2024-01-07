@@ -85,11 +85,19 @@ This tutorial outlines the post-install configuration of the open-source help de
   6. Next we are going to configure our users (customers). Navigate to Admin Panel -> Agents -> Add New and create some new users.
 </p>
 
-![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/014cd259-94e4-40e5-b55d-99442593bee0)
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/9ef073da-d4be-4830-b7b1-dc795698613c)
 
 <p>
   Users are the ticket owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk. Users can be added or deleted from the User Directory of the help desk at any time. Please note, if the user is deleted the tickets of the user must also be deleted.
 </p>
+
+<br />
+
+<p>
+  7. Next we have to configure SLA, navigate to Admin Panel -> Manage -> SLA 
+</p>
+
+![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/b39440f8-14e9-42f3-8fb1-79bb88b891a6)
 
 
 
