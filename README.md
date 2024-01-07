@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-  Next we have to configure agents, navigate to Admin Panel -> Agents -> Add New and add however many agents (help desk professionals) you would like.
+  5. Next we have to configure agents, navigate to Admin Panel -> Agents -> Add New and add however many agents (help desk professionals) you would like.
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/post-install-config/assets/155914712/5a4646c8-fdd4-4ce0-a312-dff0e3794386)
